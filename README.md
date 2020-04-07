@@ -3,13 +3,11 @@
     <body>
         <div>
             <h1><a href="/" style="color:red;">MENUS TOGGLE DESIGN WEB PERÚ</a></h1>             
-        </div>
-          
-          
-                 <h3><strong>Estructura general</strong></h3>
+        </div>       
+        <h3><strong>Estructura general</strong></h3>
         
         
-                <header class="main-header" id="main-header">
+        <header class="main-header" id="main-header">
             <div class="menu-small">
               <div class="box-logo">
                 <img src="https://www.designwebperu.com/img/logo/logo.png" alt="Logo empresa" class="logo">
@@ -37,7 +35,7 @@
                 </ul>
               </div>
               </nav>
-             </header>  
+         </header>  
  
  
  <p><strong> Dentro de la etiqueta <a href="/">HEAD</a> añade la siguiente ruta:</strong></p>	    
