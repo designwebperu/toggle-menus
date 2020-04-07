@@ -5,7 +5,7 @@
             <h1><a href="/" style="color:red;">MENUS TOGGLE DESIGN WEB PERÚ</a></h1>             
         </div>       
         <h3><strong>Estructura general</strong></h3>
-        
+	    <p>Copia la esctructruta</p>
         
         <header class="main-header" id="main-header">
             <div class="menu-small">
