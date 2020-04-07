@@ -5,7 +5,7 @@
             <h1><a href="/" style="color:red;">MENUS TOGGLE DESIGN WEB PERÚ</a></h1>             
         </div>       
         <h3><strong>Estructura general</strong></h3>
-	    <p>Copia la esctructruta</p>
+	    <p>Copia la esctructruta empesar a conumir nuestra api de menu</p>
         
         <header class="main-header" id="main-header">
             <div class="menu-small">
@@ -38,7 +38,7 @@
          </header>  
  
  
- <p><strong> Dentro de la etiqueta <a href="/">HEAD</a> añade la siguiente ruta:</strong></p>	    
+ <p><strong> Dentro de la etiqueta <a href="/">HEAD</a> añade la siguiente ruta:</strong></p>   
  	
 	<link rel="stylesheet" href="https://designwebperu.com/dwp-assets-v01/assets-css/dwp-menu-togle-v01.min.css">
 <p  style="font-size:10px;">al añadir la ruta se estarán aplicando los estilos de los diferentes menus</p>
