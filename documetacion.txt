@@ -1,0 +1,18 @@
+Versión de MENU v0.1
+Empresa: Design Web Perú
+Página web: deosgnwebperu.com
+Ultima actualización: 2020-04:05
+
+N°01:   MENU RIGHT POR DEFECTO
+        <<<< añadir las clase  [ main-nav ]   >>>>
+**********************************************************************************
+N°02:   MENU LEFT
+        <<<< añadir las siguiente clase [ toggle-l ] despues de [ main-nav ] >>>> 
+**********************************************************************************
+N°03:   MENU TOP
+        <<<< añadir las siguiente clase [ toggle-vh ] despues de [ main-nav ] >>>>
+**********************************************************************************
+N°04:   MENU BOTTOM
+        <<<< añadir las siguiente clase [ toggle-b ] despues de [ main-nav ] >>>>
+
+
